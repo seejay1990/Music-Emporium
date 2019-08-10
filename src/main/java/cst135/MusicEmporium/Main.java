@@ -22,7 +22,7 @@ public class Main {
 			
 			/*
 			 * To play music: Must change path below to match where you have downloaded the application:
-			 * start access at \\MusicEmporeum\\.......
+			 * start access at \\MusicEmporeum\\....... *Aware of the mispelling of Emporium* 
 			 * If not file not found will display but program still runs as intended.
 			 */
 			
